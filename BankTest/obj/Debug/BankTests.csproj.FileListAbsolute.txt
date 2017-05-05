@@ -1,0 +1,8 @@
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\bin\Debug\BankTest.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\bin\Debug\BankTest.pdb
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\bin\Debug\Bank.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\bin\Debug\Bank.pdb
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\obj\Debug\BankTest.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\BankTest\obj\Debug\BankTest.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\Bank\bin\Debug\Bank.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\Bank\bin\Debug\Bank.pdb
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\Bank\obj\Debug\Bank.dll
+D:\Dropbox\Projetos\Visual Studio 2015\Bank\Bank\obj\Debug\Bank.pdb
